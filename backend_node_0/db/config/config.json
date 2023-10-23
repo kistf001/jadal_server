@@ -1,0 +1,20 @@
+{
+  "development": {
+    "username": "",
+    "password": "",
+    "host": "",
+    "dialect": ""
+  },
+  "test": {
+    "username": "",
+    "password": "",
+    "host": "",
+    "dialect": ""
+  },
+  "production": {
+    "username": "",
+    "password": "",
+    "host": "",
+    "dialect": ""
+  }
+}
